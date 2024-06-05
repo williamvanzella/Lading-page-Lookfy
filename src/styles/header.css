@@ -1,6 +1,6 @@
 header {
     width: 100%;
-    padding: 28px 8%;
+    padding: 16px 8%;
     position: sticky;
     top: 0;
     background-color: var(--color-primary-1);
@@ -68,8 +68,8 @@ header {
     #mobile_nav_list {
         display: flex;
         flex-direction: column;
-        gap: 12px;
-        margin: 12px 0px;
+        gap: 16px;
+        margin: 16px 0px;
     }
 
     #mobile_nav_list .nav-item {
